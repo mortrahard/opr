@@ -1,0 +1,17 @@
+C:\Users\belkot\source\repos\labal10z2\bin\Debug\net8.0-windows\labal10z2.exe
+C:\Users\belkot\source\repos\labal10z2\bin\Debug\net8.0-windows\labal10z2.deps.json
+C:\Users\belkot\source\repos\labal10z2\bin\Debug\net8.0-windows\labal10z2.runtimeconfig.json
+C:\Users\belkot\source\repos\labal10z2\bin\Debug\net8.0-windows\labal10z2.dll
+C:\Users\belkot\source\repos\labal10z2\bin\Debug\net8.0-windows\labal10z2.pdb
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\labal10z2.Form1.resources
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\labal10z2.csproj.GenerateResource.cache
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\labal10z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\labal10z2.AssemblyInfoInputs.cache
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\labal10z2.AssemblyInfo.cs
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\labal10z2.csproj.CoreCompileInputs.cache
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\labal10z2.dll
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\refint\labal10z2.dll
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\labal10z2.pdb
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\labal10z2.genruntimeconfig.cache
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\ref\labal10z2.dll
+C:\Users\belkot\source\repos\labal10z2\obj\Debug\net8.0-windows\labal10z2.Properties.Resources.resources

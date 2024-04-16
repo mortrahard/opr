@@ -1,0 +1,14 @@
+C:\Users\belkot\source\repos\laba9\obj\Debug\net8.0\laba9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\belkot\source\repos\laba9\obj\Debug\net8.0\laba9.AssemblyInfoInputs.cache
+C:\Users\belkot\source\repos\laba9\obj\Debug\net8.0\laba9.AssemblyInfo.cs
+C:\Users\belkot\source\repos\laba9\obj\Debug\net8.0\laba9.csproj.CoreCompileInputs.cache
+C:\Users\belkot\source\repos\laba9\bin\Debug\net8.0\laba9.exe
+C:\Users\belkot\source\repos\laba9\bin\Debug\net8.0\laba9.deps.json
+C:\Users\belkot\source\repos\laba9\bin\Debug\net8.0\laba9.runtimeconfig.json
+C:\Users\belkot\source\repos\laba9\bin\Debug\net8.0\laba9.dll
+C:\Users\belkot\source\repos\laba9\bin\Debug\net8.0\laba9.pdb
+C:\Users\belkot\source\repos\laba9\obj\Debug\net8.0\laba9.dll
+C:\Users\belkot\source\repos\laba9\obj\Debug\net8.0\refint\laba9.dll
+C:\Users\belkot\source\repos\laba9\obj\Debug\net8.0\laba9.pdb
+C:\Users\belkot\source\repos\laba9\obj\Debug\net8.0\laba9.genruntimeconfig.cache
+C:\Users\belkot\source\repos\laba9\obj\Debug\net8.0\ref\laba9.dll

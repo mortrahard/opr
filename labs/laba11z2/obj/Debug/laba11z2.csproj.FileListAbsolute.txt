@@ -1,0 +1,10 @@
+C:\Users\belkot\source\repos\laba11z2\bin\Debug\laba11z2.exe.config
+C:\Users\belkot\source\repos\laba11z2\bin\Debug\laba11z2.exe
+C:\Users\belkot\source\repos\laba11z2\bin\Debug\laba11z2.pdb
+C:\Users\belkot\source\repos\laba11z2\obj\Debug\laba11z2.csproj.AssemblyReference.cache
+C:\Users\belkot\source\repos\laba11z2\obj\Debug\laba11z2.Form1.resources
+C:\Users\belkot\source\repos\laba11z2\obj\Debug\laba11z2.Properties.Resources.resources
+C:\Users\belkot\source\repos\laba11z2\obj\Debug\laba11z2.csproj.GenerateResource.cache
+C:\Users\belkot\source\repos\laba11z2\obj\Debug\laba11z2.csproj.CoreCompileInputs.cache
+C:\Users\belkot\source\repos\laba11z2\obj\Debug\laba11z2.exe
+C:\Users\belkot\source\repos\laba11z2\obj\Debug\laba11z2.pdb

@@ -1,0 +1,30 @@
+C:\Users\Михаил\Desktop\ТУСУР\Учёба\Ознакомительная практика (рассред.)\Лабораторная работа 11\Задание 1\bin\Debug\Задание 1.exe.config
+C:\Users\Михаил\Desktop\ТУСУР\Учёба\Ознакомительная практика (рассред.)\Лабораторная работа 11\Задание 1\bin\Debug\Задание 1.exe
+C:\Users\Михаил\Desktop\ТУСУР\Учёба\Ознакомительная практика (рассред.)\Лабораторная работа 11\Задание 1\bin\Debug\Задание 1.pdb
+C:\Users\Михаил\Desktop\ТУСУР\Учёба\Ознакомительная практика (рассред.)\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+C:\Users\Михаил\Desktop\ТУСУР\Учёба\Ознакомительная практика (рассред.)\Лабораторная работа 11\Задание 1\obj\Debug\Задание_1.Form1.resources
+C:\Users\Михаил\Desktop\ТУСУР\Учёба\Ознакомительная практика (рассред.)\Лабораторная работа 11\Задание 1\obj\Debug\Задание_1.Properties.Resources.resources
+C:\Users\Михаил\Desktop\ТУСУР\Учёба\Ознакомительная практика (рассред.)\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.csproj.GenerateResource.cache
+C:\Users\Михаил\Desktop\ТУСУР\Учёба\Ознакомительная практика (рассред.)\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\Desktop\ТУСУР\Учёба\Ознакомительная практика (рассред.)\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.exe
+C:\Users\Михаил\Desktop\ТУСУР\Учёба\Ознакомительная практика (рассред.)\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.pdb
+D:\чето по работе\Лабораторная работа 11\Задание 1\bin\Debug\Задание 1.exe.config
+D:\чето по работе\Лабораторная работа 11\Задание 1\bin\Debug\Задание 1.exe
+D:\чето по работе\Лабораторная работа 11\Задание 1\bin\Debug\Задание 1.pdb
+D:\чето по работе\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+D:\чето по работе\Лабораторная работа 11\Задание 1\obj\Debug\Задание_1.Form1.resources
+D:\чето по работе\Лабораторная работа 11\Задание 1\obj\Debug\Задание_1.Properties.Resources.resources
+D:\чето по работе\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.csproj.GenerateResource.cache
+D:\чето по работе\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+D:\чето по работе\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.exe
+D:\чето по работе\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.pdb
+C:\Users\arti2\Pictures\Лабораторная работа 11\Задание 1\bin\Debug\Задание 1.exe.config
+C:\Users\arti2\Pictures\Лабораторная работа 11\Задание 1\bin\Debug\Задание 1.exe
+C:\Users\arti2\Pictures\Лабораторная работа 11\Задание 1\bin\Debug\Задание 1.pdb
+C:\Users\arti2\Pictures\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.csproj.AssemblyReference.cache
+C:\Users\arti2\Pictures\Лабораторная работа 11\Задание 1\obj\Debug\Задание_1.Form1.resources
+C:\Users\arti2\Pictures\Лабораторная работа 11\Задание 1\obj\Debug\Задание_1.Properties.Resources.resources
+C:\Users\arti2\Pictures\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.csproj.GenerateResource.cache
+C:\Users\arti2\Pictures\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.csproj.CoreCompileInputs.cache
+C:\Users\arti2\Pictures\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.exe
+C:\Users\arti2\Pictures\Лабораторная работа 11\Задание 1\obj\Debug\Задание 1.pdb
